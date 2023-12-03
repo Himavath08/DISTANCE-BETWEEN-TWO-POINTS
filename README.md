@@ -22,7 +22,8 @@ print('%.2f'%d)
 ```
 
 ### OUTPUT:
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-11-14%2012-58-39.png![image](https://github.com/Himavath08/DISTANCE-BETWEEN-TWO-POINTS/assets/139110631/22f8255a-cecb-45d6-add2-00f63587accc)
+
+![image](https://github.com/Himavath08/DISTANCE-BETWEEN-TWO-POINTS/assets/139110631/06269ed1-bd08-48da-9ce8-1b651f4932a7)
 
 
 ### RESULT:
