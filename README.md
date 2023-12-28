@@ -27,3 +27,4 @@ print('%.2f'%d)
 
 
 ### RESULT:
+Thus the code successfully executed
